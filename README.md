@@ -1,10 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ohze3kG5qO9DcTUbe/giphy.gif" width="300"/>
-  <h1 align="center">Hello There <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Fullstack+JavaScript+Developer)](https://git.io/typing-svg)
+  <img src="https://media.giphy.com/media/3ohze3kG5qO9DcTUbe/giphy.gif" width="300"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=From+Fullstack+JavaScript+Developer)](https://git.io/typing-svg)
   
 </div>
+
+<div>
+  
+  <h1 align="center">Hello There <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br></h1>
+  <p align="center">let me introduce myself a bit</p>
+  
+</div>
+
 <div>
 <h2>Languages and tools</h2>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
