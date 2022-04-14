@@ -37,7 +37,7 @@
 </div>
 <h2></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blunshtelega)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blunshtelega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contact me</h2>
 <h6>Email:</span> blunshtelega@gmail.com</h6>
