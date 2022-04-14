@@ -34,6 +34,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60"/>&nbsp;
+  
+<br><br>
+  
+Also have common knowledge in Agile software development (Scrum, Kanban, Scrumban)
+  
 </div>
 <h2></h2>
 
