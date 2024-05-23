@@ -48,5 +48,5 @@ Also have common knowledge in Agile software development (Scrum, Kanban, Scrumba
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blunshtelega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contact me</h2>
-<h6>Email:</span> blunshtelega@gmail.com</h6>
-
+<h4>Email:</span> blunshtelega@gmail.com</h4>
+<h4>TG:</span> https://t.me/blunshtelega</h4>
